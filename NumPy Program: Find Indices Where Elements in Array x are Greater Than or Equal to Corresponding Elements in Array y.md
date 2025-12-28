@@ -30,6 +30,7 @@ print(np.where(l1>l2))
 print(np.where(l1==l2))
 ```
 ## Output
-![Uploading WhatsApp Image 2025-12-28 at 3.56.23 PM.jpeg…]()
+![WhatsApp Image 2025-12-28 at 3 56 23 PM](https://github.com/user-attachments/assets/09ef9792-1ae3-4ec1-84bf-6c5d7fcac649)
+
 ## Result
 Thus the python program for element wise comparison between two numpy array has been implemented and executed successfully
